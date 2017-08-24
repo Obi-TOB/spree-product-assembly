@@ -1,0 +1,14 @@
+---
+de:
+  spree:
+    available_parts: Verfügbare Teile
+    can_be_part: Kann Teil sein
+    individual_sale: Individueller Verkauf
+    no_variants: Keine Varianten
+    parts: Teile
+    assembly_cannot_be_part: Produktbundle kann nicht Teil sein
+    product_bundles: Produkt Bundles
+    parts_included: Enthaltene Teile
+    part_of_bundle: 'Teil von Bundle %{sku}'
+    selected_quantity_not_available: Ausgewählte Menge nicht verfügbar
+    user_selectable: User Selectable
